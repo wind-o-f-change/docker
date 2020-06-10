@@ -1,0 +1,9 @@
+13.12.2019 17:16:42.784 [main] INFO  stc.inno.Main - Начальный объект: null
+13.12.2019 17:17:11.796 [main] INFO  stc.inno.Main - Начальный объект: Mobile{id=1, model='Iphone 2', price=25000, manufacturer=Apple}
+13.12.2019 17:17:11.816 [main] INFO  stc.inno.Main - Итоговый объект: null
+13.12.2019 17:17:17.876 [main] INFO  stc.inno.Main - Начальный объект: Mobile{id=1, model='Iphone 2', price=25000, manufacturer=Apple}
+13.12.2019 17:17:17.897 [main] INFO  stc.inno.Main - Итоговый объект: Mobile{id=1, model='Iphone 2', price=70000, manufacturer=Apple}
+10.06.2020 17:56:32.717 [main] INFO  stc.inno.Main - Начальный объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+10.06.2020 17:56:32.720 [main] INFO  stc.inno.Main - Итоговый объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+10.06.2020 18:22:22.512 [main] INFO  stc.inno.Main - Начальный объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+10.06.2020 18:22:22.516 [main] INFO  stc.inno.Main - Итоговый объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
